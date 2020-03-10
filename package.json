@@ -1,0 +1,26 @@
+{
+  "name": "testing-testcafe",
+  "version": "1.0.0",
+  "description": "Repository created for the QA Automation Certification",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "testcafe chrome tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javieryn/testing-testcafe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javieryn/testing-testcafe/issues"
+  },
+  "homepage": "https://github.com/javieryn/testing-testcafe#readme",
+  "dependencies": {
+    "testcafe": "^1.8.2"
+  }
+}

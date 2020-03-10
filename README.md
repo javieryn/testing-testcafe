@@ -32,7 +32,7 @@ cd testing-testcafe
 ### Installation
 Install testcafe by running.
 
-```npm install``
+```npm install```
 
 ### Test Run
 
